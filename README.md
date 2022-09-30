@@ -1,2 +1,2 @@
 # mary-jo
-Test Website for Webtimes frontend dev role
+Static site built using bootstrapmade template
